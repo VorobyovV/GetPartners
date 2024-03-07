@@ -386,7 +386,7 @@ body.fixed::before {
   color: #ffffff;
   z-index: 102;
   border-radius: 30px;
-  background: url(../images/menu-bg.png);
+  background: url(../images/menu-bg.webp);
   background-size: cover;
   background-repeat: no-repeat;
   overflow-y: auto;
@@ -894,7 +894,7 @@ body.fixed::before {
 
 .showcase {
   color: #fff;
-  background: url(../images/bg1.png);
+  background: url(../images/bg1.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
@@ -902,7 +902,7 @@ body.fixed::before {
 
 @media screen and (max-width: 767px) {
   .showcase {
-    background: url(../images/bg-mob1.png);
+    background: url(../images/bg-mob1.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -1397,7 +1397,7 @@ body.fixed::before {
   max-width: 278px;
   height: 270px;
   border-radius: 30px;
-  background: url(../images/block-bg1.png);
+  background: url(../images/block-bg1.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1430,7 +1430,7 @@ body.fixed::before {
 }
 
 .showcase__block:last-child {
-  background: url(../images/block-bg2.png);
+  background: url(../images/block-bg2.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -1980,7 +1980,7 @@ body.fixed::before {
   z-index: 20;
   color: #fff;
   margin: 0 20px;
-  background: url(../images/bg2.png);
+  background: url(../images/bg2.webp);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 39px;
@@ -2013,7 +2013,7 @@ body.fixed::before {
   .making {
     padding: 40px 0 0;
     border-radius: 30px;
-    background: url(../images/bg-mob2.png);
+    background: url(../images/bg-mob2.webp);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center center;
@@ -2176,7 +2176,7 @@ body.fixed::before {
   width: 100%;
   max-width: 693px;
   height: 348px;
-  background: url(../images/making-bg1.png);
+  background: url(../images/making-bg1.webp);
   background-size: cover;
   background-repeat: no-repeat;
   margin-bottom: 18px;
@@ -2225,7 +2225,7 @@ body.fixed::before {
 }
 
 .making__block:last-child {
-  background: url(../images/making-bg2.png);
+  background: url(../images/making-bg2.webp);
   background-size: cover;
   background-repeat: no-repeat;
   margin: 0;
@@ -2343,7 +2343,7 @@ body.fixed::before {
 .making__orange-block {
   padding: 30px 20px 30px 30px;
   height: 269px;
-  background: url(../images/orange-bg1.png);
+  background: url(../images/orange-bg1.webp);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 40px;
@@ -2387,7 +2387,7 @@ body.fixed::before {
 }
 
 .making__orange-block:nth-child(2) {
-  background: url(../images/orange-bg2.png);
+  background: url(../images/orange-bg2.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -2405,7 +2405,7 @@ body.fixed::before {
 }
 
 .making__orange-block:nth-child(3) {
-  background: url(../images/orange-bg3.png);
+  background: url(../images/orange-bg3.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -2423,7 +2423,7 @@ body.fixed::before {
 }
 
 .making__orange-block:nth-child(4) {
-  background: url(../images/orange-bg4.png);
+  background: url(../images/orange-bg4.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -2570,7 +2570,7 @@ body.fixed::before {
 
 @media screen and (max-width: 991px) {
   .making .making__blocks-middle .making__block:first-child {
-    background: url(../images/making-bg5.png);
+    background: url(../images/making-bg5.webp);
     background-size: cover;
     background-repeat: no-repeat;
   }
@@ -2615,7 +2615,7 @@ body.fixed::before {
 
 .making .making__blocks-middle .making__block:last-child {
   margin: 0;
-  background: url(../images/making-bg4.png);
+  background: url(../images/making-bg4.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -3065,7 +3065,7 @@ body.fixed::before {
   padding: 80px 0 60px;
   color: #fff;
   margin: 0 20px;
-  background: url(../images/bg3.png);
+  background: url(../images/bg3.webp);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 39px;
@@ -3139,7 +3139,7 @@ body.fixed::before {
 .prosto__block {
   width: 100%;
   padding: 70px 74px 579px;
-  background: url(../images/bg-prosto1.png);
+  background: url(../images/bg-prosto1.webp);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 30px;
@@ -3181,13 +3181,13 @@ body.fixed::before {
 }
 
 .prosto__block:nth-child(2) {
-  background: url(../images/bg-prosto2.png);
+  background: url(../images/bg-prosto2.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
 
 .prosto__block:nth-child(3) {
-  background: url(../images/bg-prosto3.png);
+  background: url(../images/bg-prosto3.webp);
   background-size: cover;
   background-repeat: no-repeat;
 }
@@ -3632,7 +3632,7 @@ body.fixed::before {
 
 .information__pay {
   padding: 80px 0 0;
-  background: url(../images/bg-pay.png);
+  background: url(../images/bg-pay.webp);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 30px;
@@ -3709,7 +3709,7 @@ body.fixed::before {
 
 .information__block {
   padding: 80px;
-  background: url(../images/bg-info.png);
+  background: url(../images/bg-info.webp);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 30px;
@@ -4572,14 +4572,14 @@ body.fixed::before {
 }
 
 .showcase__slider .showcase__block:nth-child(2) {
-  background: url(../images/block-bg4.png);
+  background: url(../images/block-bg4.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
 }
 
 .showcase__slider .showcase__block:nth-child(3) {
-  background: url(../images/block-bg3.png);
+  background: url(../images/block-bg3.webp);
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center center;
