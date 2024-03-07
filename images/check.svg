@@ -1,0 +1,12 @@
+<svg width="60" height="38" viewBox="0 0 60 38" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Group 994">
+<path id="Rectangle 274" d="M10.9059 3.41914C11.5577 1.38219 13.4512 0 15.5899 0H55.5084C57.7297 0 59.3081 2.16233 58.6311 4.27795L49.0941 34.0809C48.4423 36.1178 46.5488 37.5 44.4101 37.5H6.73747C3.40552 37.5 1.03792 34.2565 2.05342 31.0831L10.9059 3.41914Z" fill="url(#paint0_linear_877_1594)"/>
+<path id="Vector" d="M38 13L27 24L22 19" stroke="white" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear_877_1594" x1="15" y1="-1.17187" x2="35.1682" y2="47.8035" gradientUnits="userSpaceOnUse">
+<stop stop-color="#F53B1F"/>
+<stop offset="1" stop-color="#DC2B10"/>
+</linearGradient>
+</defs>
+</svg>
